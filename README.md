@@ -29,7 +29,7 @@ _operators_? That would be an expression like:
 This expression is the _constant expression_ and it's very important, although
 very boring from a programming as conversation perspective, the _constant
 expression_ has the power to create _agreement_ and _trust_. And if it weren't
-for you ability to agree with our conversational partner about basic reality,
+for your ability to agree with our conversational partner about basic reality,
 programming would never have been possible!
 
 ## Define the _Constant Expression_
